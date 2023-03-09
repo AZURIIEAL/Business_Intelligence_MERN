@@ -1,6 +1,0 @@
-{
-    "compilerOptions": {  //For Absolute Imports.
-        "baseUrl": "src"
-    },
-    "include": ["src"]
-}
