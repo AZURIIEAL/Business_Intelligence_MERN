@@ -1,0 +1,6 @@
+# For not pushing files into the repo.
+# node_modules  As it is a big file only used while development.
+# .env as it has private info.
+
+/node_modules  As it is a big file only used while development
+.env
